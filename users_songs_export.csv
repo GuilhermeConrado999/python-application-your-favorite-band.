@@ -1,0 +1,221 @@
+﻿id,name,fav_song,song_album,band,year
+2,pedro,down let me down,let it be,the beatles,1970
+3,guilherme,us and them,the dark side of the moon,pink floyd,1973
+4,bruna,roadhouse blues,morrisom hotel,the doors,1970
+5,rafael,let it be,let it be ,the beatles,1970
+6,beatriz,hey joe,,jimi hendrix,1967
+7,joão,hey jude,let it be,the beatles,1970
+8,luiz,love will tear us apart,,joy division,1980
+9,gabriela,ace of spades,ace of spades,motorhead,1980
+10,gabriel,change,white pony,deftones,2000
+11,antonio,wild honey pie,white album the beatles,beatles,1968
+12,Marcos,Mr. Brightside,Hot Fuss,The Killers,2004
+13,João,Paranoid Android,OK Computer,Radiohead,1997
+14,Beatriz,Losing My Religion,Automatic for the People,R.E.M.,1992
+15,Rafael,Bohemian Rhapsody,A Night at the Opera,Queen,1975
+16,Maria,Losing My Religion,Automatic for the People,R.E.M.,1992
+17,Maria,Rolling in the Deep,21,Adele,2011
+18,Ricardo,Locked Out of Heaven,Unorthodox Jukebox,Bruno Mars,2012
+19,Letícia,Back in Black,Back in Black,AC/DC,1980
+20,Priscila,Alive,Ten,Pearl Jam,1991
+21,Amanda,Wonderwall,(What's the Story) Morning Glory?,Oasis,1995
+22,João,Get Lucky,Random Access Memories,Daft Punk,2013
+23,Daniel,Alive,Ten,Pearl Jam,1991
+24,Ricardo,Bohemian Rhapsody,A Night at the Opera,Queeen,1975
+25,Larissa,Locked Out of Heaven,Unorthodox Jukebox,Bruno Mars,2012
+26,Fernanda,The Less I Know the Better,Currents,Tame Impala,2015
+27,Daniel,Locked Out of Heaven,unorthodox jukebox,Bruno Mars,2012
+28,Camila,Losing My Religion,automatic for the people,R.E.M.,1992
+29,João,Get Lucky,Random Access Memories,Daft Punk,2013
+30,Gabriel,Billie Jean,thriller,Michael Jakson,1982
+31,Gabriel,Hotel California,Hotel California,The Eagles,1976
+32,Beatriz,Stairway to Heaven,Led Zeppelin IV,Led Zepplin,1971
+33,Amanda,Rolling in the Deep,21,Adele,2011
+34,rafael,Smells Like Teen Spirit,nevermind,Nirvanna,1991
+35,Amanda,Sweet Child O' Mine,Appetite for Destruction,Guns N' Roses,1987
+36,Rafael,Boulevard of Broken Dreams,American Idiot,Green Day,2004
+37,Julia,Stayin' Alive,saturday night fever,Bee Gees,1977
+38,Pedro,Wonderwall,(What's the Story) Morning Glory?,Oasis,1995
+39,Fernanda,Back in Black,Back in Black,AC/DC,1980
+40,Daniel,Like a Virgin,Like a Virgin,Madonna,1984
+41,ana,Get Lucky,Random Access Memories,Daft Punk,2013
+42,Thiago,Rolling in the Deep,21,Adele,2011
+43,Fernanda,Locked Out of Heaven,Unorthodox Jukebox,Bruno Mars,2012
+44,Lucas,Bohemian Rhapsody,A Night at the Opera,Queen,1975
+45,Amanda,Boulevard of Broken Dreams,American Idiot,Green Day,2004
+46,Julia,Billie Jean,Thriller,Michael Jackson,1982
+47,Larissa,Alive,Ten,Pearl Jam,1991
+48,Letícia,Get Lucky,Random Access Memories,Daft Punk,2013
+49,Beatriz,Bohemian Rhapsody,A Night at the Opera,Queen,1975
+50,Amanda,Losing My Religion,automatic for the people,R.E.M.,1992
+51,Daniel,Bohemian Rhapsody,A Night at the Opera,Queen,1975
+52,Beatriz,Bohemian Rhapsody,A Night at the Opera,Queen,1975
+53,ricardo,With or Without You,The Joshua Tree,U2,1987
+54,Ana,Billie Jean,Thriller,michael jackson,1982
+55,Fernanda,Get Lucky,Random Access Memories,Daft Punk,2013
+56,João,Locked Out of Heaven,Unorthodox Jukebox,Bruno Mars,2012
+57,Pedro,Alive,Ten,Pearl Jam,1991
+58,Letícia,Losing My Religion,Automatic for the People,R.E.M.,1992
+59,Priscila,Mr. Brightside,Hot Fuss,The Killers,2004
+60,Daniel,Rolling in the Deep,21,Adele,2011
+61,Beatriz,Rolling in the Deep,21,Adele,2011
+62,Daniel,Rehab,back to black,Amy Winehouse,2006
+63,Thiago,With or Without You,The Joshua Tree,U2,1987
+64,Maria,The Scientist,a rush of blood to the head,Coldplay,2002
+65,Gabriel,Do I Wanna Know?,AM,Arctic Monkeys,2013
+66,Maria,Billie Jean,Thriller,michael jackson,1982
+67,Ricardo,Locked Out of Heaven,unorthodox jukebox,Bruno Mars,2012
+68,Priscila,Stayin' Alive,Saturday Night Fever,Bee Gees,1977
+69,Marcos,In the End,Hybrid Theory,Linkin Park,2000
+70,Ana,In the End,Hybrid Theory,Linkin Park,2000
+71,Ricardo,Rolling in the Deep,21,Adele,2011
+72,Letícia,Money,the dark side of the moon,pink floyd,1973
+73,Maria,Locked Out of Heaven,Unorthodox Jukebox,Bruno Mars,2012
+74,Maria,Billie Jean,Thriller,Michael Jakson,1982
+75,Bruno,The Less I Know the Better,Currents,Tame Impala,2015
+76,Maria,Paranoid Android,OK Computer,Radiohead,1997
+77,Thiago,Like a Virgin,Like a Virgin,Madonna,1984
+78,Rafael,Locked Out of Heaven,Unorthodox Jukebox,Bruno Mars,2012
+79,Priscila,Mr. Brightside,Hot Fuss,The Killers,2004
+80,Lucas,Boulevard of Broken Dreams,American Idiot,Green Day,2004
+81,Amanda,With or Without You,The Joshua Tree,U2,1987
+82,Beatriz,Mr. Brightside,Hot Fuss,The Killers,2004
+83,Fernanda,Alive,Ten,Pearl Jam,1991
+84,Marcos,Losing My Religion,automatic for the people,R.E.M.,1992
+85,Beatriz,Money,The Dark Side of the Moon,Pink Floid,1973
+86,Priscila,Stairway to Heaven,Led Zeppelin IV,Led Zeppelin,1971
+87,Pedro,Mr. Brightside,Hot Fuss,The Killers,2004
+88,Marcos,Wonderwall,(What's the Story) Morning Glory?,Oasis,1995
+89,Beatriz,Like a Virgin,Like a Virgin,Madonna,1984
+90,ana,The Scientist,A Rush of Blood to the Head,Coldplay,2002
+91,Camila,Smells Like Teen Spirit,nevermind,Nirvana,1991
+92,Pedro,Rehab,Back to Black,Amy Winehouse,2006
+93,amanda,In the End,Hybrid Theory,Linkin Park,2000
+94,Beatriz,Billie Jean,Thriller,Michael Jackson,1982
+95,Rafael,Losing My Religion,Automatic for the People,R.E.M.,1992
+96,Fernanda,Locked Out of Heaven,Unorthodox Jukebox,Bruno Mars,2012
+97,Bruno,Locked Out of Heaven,Unorthodox Jukebox,Bruno Mars,2012
+98,joão,With or Without You,The Joshua Tree,U2,1987
+99,Julia,Hotel California,Hotel California,The Eagles,1976
+100,Fernanda,In the End,Hybrid Theory,Linkin Park,2000
+101,João,Locked Out of Heaven,Unorthodox Jukebox,Bruno Mars,2012
+102,Ricardo,Alive,Ten,Pearl Jam,1991
+103,ricardo,Rolling in the Deep,21,Adele,2011
+104,bruno,Locked Out of Heaven,unorthodox jukebox,Bruno Mars,2012
+105,Bruno,Bohemian Rhapsody,A Night at the Opera,Queen,1975
+106,Priscila,The Scientist,A Rush of Blood to the Head,Coldplay,2002
+107,Marcos,Sweet Child O' Mine,Appetite for Destruction,Guns N' Roses,1987
+108,Letícia,Stayin' Alive,Saturday Night Fever,Bee Gees,1977
+109,beatriz,Rolling in the Deep,21,Adele,2011
+110,Ricardo,Alive,Ten,Pearl Jam,1991
+111,Letícia,Losing My Religion,Automatic for the People,R.E.M.,1992
+112,Marcos,Losing My Religion,Automatic for the People,R.E.M.,1992
+113,Amanda,Bohemian Rhapsody,A Night at the Opera,Quen,1975
+114,Julia,In the End,Hybrid Theory,Linkin Park,2000
+115,Maria,Hotel California,Hotel California,The Eagles,1976
+116,Larissa,Back in Black,Back in Black,AC/DC,1980
+117,Ricardo,Sweet Child O' Mine,Appetite for Destruction,Guns N' Roses,1987
+118,amanda,The Scientist,A Rush of Blood to the Head,Coldplay,2002
+119,Fernanda,Sweet Child O' Mine,Appetite for Destruction,Guns N' Roses,1987
+120,Julia,Losing My Religion,Automatic for the People,R.E.M.,1992
+121,Bruno,Wonderwall,(What's the Story) Morning Glory?,Oasis,1995
+122,Gabriel,Stayin' Alive,Saturday Night Fever,Bee Gees,1977
+123,joão,Back in Black,Back in Black,AC/DC,1980
+124,Maria,Bohemian Rhapsody,A Night at the Opera,Queeen,1975
+125,Pedro,Boulevard of Broken Dreams,American Idiot,Green Day,2004
+126,Camila,Back in Black,Back in Black,AC/DC,1980
+127,Daniel,Stayin' Alive,Saturday Night Fever,Bee Gees,1977
+128,camila,Losing My Religion,Automatic for the People,R.E.M.,1992
+129,Maria,Stayin' Alive,saturday night fever,Bee Gees,1977
+130,rafael,The Less I Know the Better,Currents,Tame Impala,2015
+131,Camila,Wonderwall,(What's the Story) Morning Glory?,Oasis,1995
+132,Marcos,Bohemian Rhapsody,A Night at the Opera,Queen,1975
+133,Pedro,Hotel California,Hotel California,The Eagles,1976
+134,Rafael,Losing My Religion,Automatic for the People,R.E.M.,1992
+135,Bruno,Get Lucky,Random Access Memories,Daft Punk,2013
+136,bruno,Paranoid Android,OK Computer,Radiohead,1997
+137,Priscila,Stairway to Heaven,Led Zeppelin IV,Led Zepelin,1971
+138,João,Locked Out of Heaven,Unorthodox Jukebox,Bruno Mars,2012
+139,Fernanda,Back in Black,Back in Black,AC/DC,1980
+140,Marcos,Alive,Ten,Pearl Jam,1991
+141,rafael,Alive,Ten,Pearl Jam,1991
+142,Thiago,Bohemian Rhapsody,A Night at the Opera,Queen,1975
+143,Beatriz,Boulevard of Broken Dreams,american idiot,Green Day,2004
+144,Rafael,Wonderwall,(What's the Story) Morning Glory?,Oasis,1995
+145,Marcos,Money,The Dark Side of the Moon,Pink Floyd,1973
+146,Gabriel,Money,The Dark Side of the Moon,Pink Floyd,1973
+147,Julia,Stairway to Heaven,Led Zeppelin IV,Led Zeppelin,1971
+148,Maria,Losing My Religion,Automatic for the People,R.E.M.,1992
+149,Ana,Locked Out of Heaven,Unorthodox Jukebox,Bruno Mars,2012
+150,Priscila,Rehab,Back to Black,Amy Winehouse,2006
+151,Fernanda,Losing My Religion,automatic for the people,R.E.M.,1992
+152,Ricardo,Paranoid Android,OK Computer,Radiohead,1997
+153,Letícia,Money,The Dark Side of the Moon,Pink Floid,1973
+154,Fernanda,Smells Like Teen Spirit,Nevermind,Nirvana,1991
+155,Lucas,Paranoid Android,OK Computer,Radiohead,1997
+156,Fernanda,Do I Wanna Know?,AM,Arctic Monkeys,2013
+157,Larissa,Do I Wanna Know?,am,Arctic Monkeys,2013
+158,Amanda,Rolling in the Deep,21,Adele,2011
+159,Fernanda,Rolling in the Deep,21,Adele,2011
+160,Bruno,Locked Out of Heaven,Unorthodox Jukebox,Bruno Mars,2012
+161,beatriz,Money,the dark side of the moon,pink floyd,1973
+162,Fernanda,Paranoid Android,ok computer,Radiohead,1997
+163,Amanda,Back in Black,Back in Black,AC/DC,1980
+164,Lucas,The Scientist,A Rush of Blood to the Head,Coldplay,2002
+165,Thiago,Do I Wanna Know?,AM,Arctic Monkeys,2013
+166,Ricardo,Mr. Brightside,Hot Fuss,The Killers,2004
+167,Ricardo,Stayin' Alive,saturday night fever,Bee Gees,1977
+168,Beatriz,Back in Black,Back in Black,AC/DC,1980
+169,Pedro,Stairway to Heaven,Led Zeppelin IV,Led Zeppelin,1971
+170,Bruno,The Less I Know the Better,currents,Tame Impala,2015
+171,Marcos,Losing My Religion,Automatic for the People,R.E.M.,1992
+172,Lucas,Billie Jean,Thriller,michael jackson,1982
+173,Marcos,Alive,Ten,Pearl Jam,1991
+174,Bruno,Stayin' Alive,Saturday Night Fever,Bee Gees,1977
+175,Bruno,Paranoid Android,OK Computer,Radiohead,1997
+176,rafael,Rolling in the Deep,21,Adele,2011
+177,beatriz,Do I Wanna Know?,AM,Arctic Monkeys,2013
+178,Marcos,With or Without You,The Joshua Tree,U2,1987
+179,Camila,Mr. Brightside,Hot Fuss,The Killers,2004
+180,Lucas,Money,The Dark Side of the Moon,Pink Floyd,1973
+181,Gabriel,Like a Virgin,Like a Virgin,Madonna,1984
+182,Letícia,Alive,Ten,Pearl Jam,1991
+183,Beatriz,The Scientist,A Rush of Blood to the Head,Coldplay,2002
+184,Priscila,Rolling in the Deep,21,Adele,2011
+185,Beatriz,Hotel California,Hotel California,The Eagles,1976
+186,Priscila,Mr. Brightside,Hot Fuss,The Killers,2004
+187,Thiago,Stairway to Heaven,Led Zeppelin IV,Led Zeppelin,1971
+188,Ana,Do I Wanna Know?,AM,Arctic Monkeys,2013
+189,Lucas,Rolling in the Deep,21,Adele,2011
+190,Lucas,Back in Black,Back in Black,AC/DC,1980
+191,Letícia,Get Lucky,Random Access Memories,Daft Punk,2013
+192,Priscila,Rolling in the Deep,21,Adele,2011
+193,Beatriz,Locked Out of Heaven,Unorthodox Jukebox,Bruno Mars,2012
+194,Pedro,With or Without You,The Joshua Tree,U2,1987
+195,Maria,With or Without You,The Joshua Tree,U2,1987
+196,João,Billie Jean,Thriller,Michael Jakson,1982
+197,Rafael,Paranoid Android,OK Computer,Radiohead,1997
+198,Marcos,Get Lucky,Random Access Memories,Daft Punk,2013
+199,Ricardo,Hotel California,Hotel California,The Eagles,1976
+200,Maria,Mr. Brightside,Hot Fuss,The Killers,2004
+201,Amanda,Billie Jean,Thriller,Michael Jackson,1982
+202,João,Stayin' Alive,Saturday Night Fever,Bee Gees,1977
+203,Pedro,Get Lucky,Random Access Memories,Daft Punk,2013
+204,Marcos,Back in Black,Back in Black,AC/DC,1980
+205,Larissa,Smells Like Teen Spirit,Nevermind,Nirvanna,1991
+206,Julia,Stayin' Alive,Saturday Night Fever,Bee Gees,1977
+207,Maria,Mr. Brightside,Hot Fuss,The Killers,2004
+208,Lucas,Billie Jean,Thriller,michael jackson,1982
+209,Daniel,Back in Black,Back in Black,AC/DC,1980
+210,Bruno,Locked Out of Heaven,Unorthodox Jukebox,Bruno Mars,2012
+211,Julia,Hotel California,hotel california,The Eagles,1976
+212,Ricardo,The Less I Know the Better,Currents,Tame Impala,2015
+213,Fernanda,Boulevard of Broken Dreams,American Idiot,Green Day,2004
+214,Pedro,The Scientist,A Rush of Blood to the Head,Coldplay,2002
+215,Priscila,In the End,Hybrid Theory,Linkin Park,2000
+216,Marcos,Stairway to Heaven,Led Zeppelin IV,Led Zeppelin,1971
+217,Gabriel,Alive,Ten,Pearl Jam,1991
+218,Beatriz,Rolling in the Deep,21,Adele,2011
+219,Lucas,Boulevard of Broken Dreams,American Idiot,Green Day,2004
+220,Larissa,The Less I Know the Better,Currents,Tame Impala,2015
+221,Letícia,Wonderwall,(What's the Story) Morning Glory?,Oasis,1995
