@@ -1,0 +1,111 @@
+﻿id;name;fav_song;song_album;band;year
+11;antonio  ;wild honey pie            ;white album the beatles          ;beatles        ;1968
+5;rafael   ;let it be                 ;let it be                        ;the beatles    ;1970
+7;joão     ;hey jude                  ;let it be                        ;the beatles    ;1970
+137;Priscila ;Stairway to Heaven        ;Led Zeppelin IV                  ;Led Zepelin    ;1971
+147;Julia    ;Stairway to Heaven        ;Led Zeppelin IV                  ;Led Zeppelin   ;1971
+169;Pedro    ;Stairway to Heaven        ;Led Zeppelin IV                  ;Led Zeppelin   ;1971
+187;Thiago   ;Stairway to Heaven        ;Led Zeppelin IV                  ;Led Zeppelin   ;1971
+3;guilherme;us and them               ;the dark side of the moon        ;pink floyd     ;1973
+85;Beatriz  ;Money                     ;The Dark Side of the Moon        ;Pink Floid     ;1973
+145;Marcos   ;Money                     ;The Dark Side of the Moon        ;Pink Floyd     ;1973
+153;Letícia  ;Money                     ;The Dark Side of the Moon        ;Pink Floid     ;1973
+161;beatriz  ;Money                     ;the dark side of the moon        ;pink floyd     ;1973
+15;Rafael   ;Bohemian Rhapsody         ;A Night at the Opera             ;Queen          ;1975
+49;Beatriz  ;Bohemian Rhapsody         ;A Night at the Opera             ;Queen          ;1975
+51;Daniel   ;Bohemian Rhapsody         ;A Night at the Opera             ;Queen          ;1975
+105;Bruno    ;Bohemian Rhapsody         ;A Night at the Opera             ;Queen          ;1975
+113;Amanda   ;Bohemian Rhapsody         ;A Night at the Opera             ;Quen           ;1975
+31;Gabriel  ;Hotel California          ;Hotel California                 ;The Eagles     ;1976
+99;Julia    ;Hotel California          ;Hotel California                 ;The Eagles     ;1976
+115;Maria    ;Hotel California          ;Hotel California                 ;The Eagles     ;1976
+133;Pedro    ;Hotel California          ;Hotel California                 ;The Eagles     ;1976
+185;Beatriz  ;Hotel California          ;Hotel California                 ;The Eagles     ;1976
+199;Ricardo  ;Hotel California          ;Hotel California                 ;The Eagles     ;1976
+211;Julia    ;Hotel California          ;hotel california                 ;The Eagles     ;1976
+37;Julia    ;Stayin' Alive             ;saturday night fever             ;Bee Gees       ;1977
+127;Daniel   ;Stayin' Alive             ;Saturday Night Fever             ;Bee Gees       ;1977
+129;Maria    ;Stayin' Alive             ;saturday night fever             ;Bee Gees       ;1977
+167;Ricardo  ;Stayin' Alive             ;saturday night fever             ;Bee Gees       ;1977
+9;gabriela ;ace of spades             ;ace of spades                    ;motorhead      ;1980
+19;Letícia  ;Back in Black             ;Back in Black                    ;AC/DC          ;1980
+39;Fernanda ;Back in Black             ;Back in Black                    ;AC/DC          ;1980
+123;joão     ;Back in Black             ;Back in Black                    ;AC/DC          ;1980
+139;Fernanda ;Back in Black             ;Back in Black                    ;AC/DC          ;1980
+163;Amanda   ;Back in Black             ;Back in Black                    ;AC/DC          ;1980
+209;Daniel   ;Back in Black             ;Back in Black                    ;AC/DC          ;1980
+201;Amanda   ;Billie Jean               ;Thriller                         ;Michael Jackson;1982
+77;Thiago   ;Like a Virgin             ;Like a Virgin                    ;Madonna        ;1984
+89;Beatriz  ;Like a Virgin             ;Like a Virgin                    ;Madonna        ;1984
+181;Gabriel  ;Like a Virgin             ;Like a Virgin                    ;Madonna        ;1984
+35;Amanda   ;Sweet Child O' Mine       ;Appetite for Destruction         ;Guns N' Roses  ;1987
+53;ricardo  ;With or Without You       ;The Joshua Tree                  ;U2             ;1987
+63;Thiago   ;With or Without You       ;The Joshua Tree                  ;U2             ;1987
+81;Amanda   ;With or Without You       ;The Joshua Tree                  ;U2             ;1987
+107;Marcos   ;Sweet Child O' Mine       ;Appetite for Destruction         ;Guns N' Roses  ;1987
+117;Ricardo  ;Sweet Child O' Mine       ;Appetite for Destruction         ;Guns N' Roses  ;1987
+119;Fernanda ;Sweet Child O' Mine       ;Appetite for Destruction         ;Guns N' Roses  ;1987
+195;Maria    ;With or Without You       ;The Joshua Tree                  ;U2             ;1987
+23;Daniel   ;Alive                     ;Ten                              ;Pearl Jam      ;1991
+47;Larissa  ;Alive                     ;Ten                              ;Pearl Jam      ;1991
+57;Pedro    ;Alive                     ;Ten                              ;Pearl Jam      ;1991
+83;Fernanda ;Alive                     ;Ten                              ;Pearl Jam      ;1991
+91;Camila   ;Smells Like Teen Spirit   ;nevermind                        ;Nirvana        ;1991
+141;rafael   ;Alive                     ;Ten                              ;Pearl Jam      ;1991
+173;Marcos   ;Alive                     ;Ten                              ;Pearl Jam      ;1991
+205;Larissa  ;Smells Like Teen Spirit   ;Nevermind                        ;Nirvanna       ;1991
+217;Gabriel  ;Alive                     ;Ten                              ;Pearl Jam      ;1991
+95;Rafael   ;Losing My Religion        ;Automatic for the People         ;R.E.M.         ;1992
+111;Letícia  ;Losing My Religion        ;Automatic for the People         ;R.E.M.         ;1992
+151;Fernanda ;Losing My Religion        ;automatic for the people         ;R.E.M.         ;1992
+171;Marcos   ;Losing My Religion        ;Automatic for the People         ;R.E.M.         ;1992
+21;Amanda   ;Wonderwall                ;(What's the Story) Morning Glory?;Oasis          ;1995
+121;Bruno    ;Wonderwall                ;(What's the Story) Morning Glory?;Oasis          ;1995
+131;Camila   ;Wonderwall                ;(What's the Story) Morning Glory?;Oasis          ;1995
+221;Letícia  ;Wonderwall                ;(What's the Story) Morning Glory?;Oasis          ;1995
+13;João     ;Paranoid Android          ;OK Computer                      ;Radiohead      ;1997
+155;Lucas    ;Paranoid Android          ;OK Computer                      ;Radiohead      ;1997
+175;Bruno    ;Paranoid Android          ;OK Computer                      ;Radiohead      ;1997
+197;Rafael   ;Paranoid Android          ;OK Computer                      ;Radiohead      ;1997
+69;Marcos   ;In the End                ;Hybrid Theory                    ;Linkin Park    ;2000
+93;amanda   ;In the End                ;Hybrid Theory                    ;Linkin Park    ;2000
+215;Priscila ;In the End                ;Hybrid Theory                    ;Linkin Park    ;2000
+183;Beatriz  ;The Scientist             ;A Rush of Blood to the Head      ;Coldplay       ;2002
+45;Amanda   ;Boulevard of Broken Dreams;American Idiot                   ;Green Day      ;2004
+59;Priscila ;Mr. Brightside            ;Hot Fuss                         ;The Killers    ;2004
+79;Priscila ;Mr. Brightside            ;Hot Fuss                         ;The Killers    ;2004
+87;Pedro    ;Mr. Brightside            ;Hot Fuss                         ;The Killers    ;2004
+125;Pedro    ;Boulevard of Broken Dreams;American Idiot                   ;Green Day      ;2004
+143;Beatriz  ;Boulevard of Broken Dreams;american idiot                   ;Green Day      ;2004
+179;Camila   ;Mr. Brightside            ;Hot Fuss                         ;The Killers    ;2004
+207;Maria    ;Mr. Brightside            ;Hot Fuss                         ;The Killers    ;2004
+213;Fernanda ;Boulevard of Broken Dreams;American Idiot                   ;Green Day      ;2004
+219;Lucas    ;Boulevard of Broken Dreams;American Idiot                   ;Green Day      ;2004
+17;Maria    ;Rolling in the Deep       ;21                               ;Adele          ;2011
+33;Amanda   ;Rolling in the Deep       ;21                               ;Adele          ;2011
+61;Beatriz  ;Rolling in the Deep       ;21                               ;Adele          ;2011
+71;Ricardo  ;Rolling in the Deep       ;21                               ;Adele          ;2011
+103;ricardo  ;Rolling in the Deep       ;21                               ;Adele          ;2011
+109;beatriz  ;Rolling in the Deep       ;21                               ;Adele          ;2011
+159;Fernanda ;Rolling in the Deep       ;21                               ;Adele          ;2011
+189;Lucas    ;Rolling in the Deep       ;21                               ;Adele          ;2011
+25;Larissa  ;Locked Out of Heaven      ;Unorthodox Jukebox               ;Bruno Mars     ;2012
+27;Daniel   ;Locked Out of Heaven      ;unorthodox jukebox               ;Bruno Mars     ;2012
+43;Fernanda ;Locked Out of Heaven      ;Unorthodox Jukebox               ;Bruno Mars     ;2012
+67;Ricardo  ;Locked Out of Heaven      ;unorthodox jukebox               ;Bruno Mars     ;2012
+73;Maria    ;Locked Out of Heaven      ;Unorthodox Jukebox               ;Bruno Mars     ;2012
+97;Bruno    ;Locked Out of Heaven      ;Unorthodox Jukebox               ;Bruno Mars     ;2012
+101;João     ;Locked Out of Heaven      ;Unorthodox Jukebox               ;Bruno Mars     ;2012
+149;Ana      ;Locked Out of Heaven      ;Unorthodox Jukebox               ;Bruno Mars     ;2012
+193;Beatriz  ;Locked Out of Heaven      ;Unorthodox Jukebox               ;Bruno Mars     ;2012
+29;João     ;Get Lucky                 ;Random Access Memories           ;Daft Punk      ;2013
+41;ana      ;Get Lucky                 ;Random Access Memories           ;Daft Punk      ;2013
+55;Fernanda ;Get Lucky                 ;Random Access Memories           ;Daft Punk      ;2013
+65;Gabriel  ;Do I Wanna Know?          ;AM                               ;Arctic Monkeys ;2013
+135;Bruno    ;Get Lucky                 ;Random Access Memories           ;Daft Punk      ;2013
+157;Larissa  ;Do I Wanna Know?          ;am                               ;Arctic Monkeys ;2013
+165;Thiago   ;Do I Wanna Know?          ;AM                               ;Arctic Monkeys ;2013
+177;beatriz  ;Do I Wanna Know?          ;AM                               ;Arctic Monkeys ;2013
+191;Letícia  ;Get Lucky                 ;Random Access Memories           ;Daft Punk      ;2013
+203;Pedro    ;Get Lucky                 ;Random Access Memories           ;Daft Punk      ;2013
+75;Bruno    ;The Less I Know the Better;Currents                         ;Tame Impala    ;2015
